@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# guessinggame.sh - Guess the number of regular files in the current directory.
 
 count_files() {
     find . -maxdepth 1 -type f | wc -l | tr -d ' '
