@@ -1,6 +1,4 @@
-# Guessing Game
 
-## Project information
 
 - **Make executed at:** 2026-11-20 20:24:07 UTC
 - **Lines of code in guessinggame.sh:** 39
