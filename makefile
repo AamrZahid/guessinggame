@@ -1,4 +1,3 @@
-# Generate README.md automatically. Run with: make
 
 .PHONY: all FORCE
 
